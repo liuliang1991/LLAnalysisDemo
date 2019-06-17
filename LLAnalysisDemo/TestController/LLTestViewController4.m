@@ -20,6 +20,10 @@
      self.view.backgroundColor = [UIColor whiteColor];
 }
 
+- (void)dealloc{
+    NSLog(@"delloc：%@",NSStringFromClass([self class]));
+}
+
 /*
 #pragma mark - Navigation
 

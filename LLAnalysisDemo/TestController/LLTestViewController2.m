@@ -63,6 +63,9 @@
     return _tapView1;
 }
 
+- (void)dealloc{
+    NSLog(@"delloc：%@",NSStringFromClass([self class]));
+}
 
 /*
 #pragma mark - Navigation
