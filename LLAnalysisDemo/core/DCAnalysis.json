@@ -1,0 +1,66 @@
+{
+    "PAGEVIEW":{
+        "LLTestViewController1/viewDidLoad":{
+            "eventId":1,
+            "eventType":0,
+            "eventName":"进入TestViewController1",
+        },
+        "LLTestViewController2/viewDidLoad":{
+            "eventId":2,
+            "eventType":0,
+            "eventName":"进入TestViewController2",
+        },
+        "LLTestViewController3/viewDidLoad":{
+            "eventId":3,
+            "eventType":0,
+            "eventName":"进入TestViewController3",
+        },
+        "LLTestViewController4/viewDidLoad":{
+            "eventId":4,
+            "eventType":0,
+            "eventName":"进入TestViewController4",
+        },
+    },
+    "ACTION":{
+        "DemosListVC/tableTag0/section0/row0":{
+            "eventId":1001,
+            "eventType":1,
+            "eventName":"首页 Table 点击了第 1 行",
+        },
+        "DemosListVC/tableTag0/section0/row1":{
+            "eventId":1002,
+            "eventType":1,
+            "eventName":"首页 Table 点击了第 2 行",
+        },
+        "DemosListVC/tableTag0/section0/row2":{
+            "eventId":1003,
+            "eventType":1,
+            "eventName":"首页 Table 点击了第 3 行",
+        },
+        "DemosListVC/tableTag0/section0/row3":{
+            "eventId":1004,
+            "eventType":1,
+            "eventName":"首页 Table 点击了第 4 行",
+        },
+        "LLTestViewController1/buttonTag0/click1":{
+            "eventId":10001,
+            "eventType":1,
+            "eventName":"点击了page1的按钮1",
+        },
+        "LLTestViewController1/buttonTag0/click2":{
+            "eventId":10002,
+            "eventType":1,
+            "eventName":"点击了page1的按钮2",
+        },
+        "LLTestViewController2/viewTag0/tap1":{
+            "eventId":100001,
+            "eventType":1,
+            "eventName":"点击了 page2 的 tapView1",
+        },
+        "LLTestViewController2/viewTag0/tap2":{
+            "eventId":100002,
+            "eventType":1,
+            "eventName":"点击了 page2 的 tapView2",
+        },
+    },
+}
