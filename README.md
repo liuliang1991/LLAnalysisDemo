@@ -1,7 +1,7 @@
 # LLAnalysisDemo
 iOS中无痕数据埋点的一点小实践
 
-实现思路参考这篇文章： https://www.jianshu.com/p/b8a67c4acfb3
+实现思路参考这篇文章：https://neyoufan.github.io/2017/04/19/ios/网易HubbleData无埋点SDK在iOS端的设计与实现/
 
 1.数据埋点：
         通过 hook  UIViewController、UIControl、UITableView（UICollectionView）、UIGestureRecognizer 中的方法
